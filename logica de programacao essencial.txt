@@ -1,0 +1,182 @@
+### *Lógica de programação essencial*
+
+#### Entendo o que é lógica
+
+•	Entender o que é lógica e lógica de programação
+•	Entender e criar um mapa mental para resolução de problemas
+•	Entender uma abstração
+
+#### Programa não é só saber código é resolver problemas
+
+•	Focar na lógica e habilidade de solucionar problemas
+•	Não ir direto pro códigos
+
+#### O que é Lógica.
+
+1. “coerência de raciocínio, de ideias”
+
+   - Exemplos tenho 10 é maior que 9, consequentemente o 9 é menor do que 10 tem um coerência.
+
+2. •	“Sequencia coerente, regular e necessária de acontecimentos, coisas”
+
+   - As vezes para se resolver um problema você precisa de uma sequência de coerência
+
+3. 	Por exemplo, meu problema é atravessar a rua de uma lado para o outro sem ser atropela e não morrer no percurso
+
+4. •	Paro olhos pro dois lados
+
+5. •	Verifico se não está vindo nenhum carro
+
+6. •	Verifico se terei tempo de atravessa andando ou correndo
+
+7. •	Então atravesso
+
+8. •	Logica de programação 
+
+   - “ Lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema”
+
+   - Então, tenho problema, busco quais são as melhores alternativas de ações para resolver o problema.
+
+   - Esta sequência de ações é conhecida como algoritmos / ou seja as linhas dos programas/
+
+   - Metacognição: Nada mais é do que pensar como você pensa
+
+     Exemplificando mapa mental maior::::
+
+     - Necessita comprar 2 camisetas
+     - A camiseta custa 50 e segunda 50
+     - Somando as 2 camisetas 100
+     - Na compra de 2 tem desconto de 20%
+     - Quanto em dinheiro vou ter de desconto
+     - Se não souber cálculo em porcentagem, não vai resolver este problema
+     - 100 x 20 % = 20
+     - Quto vou pagar 2 camisetas 100 – 20 de desconto = 80.
+
+​							
+
+- - Exemplificando mapa mental abstrato:
+    - Abstração – maneira mais simples, forma reduzida de atender as ações de um determinando problema.
+    - Total de camisetas 100
+    - Desconto 20%
+    - Vc entende que vai pagar 80% do total
+    - Sabe que 80% é 80 / 100.
+    - Que equivale 0,8
+    - Consigo entender quanto iria pagar 100 x 80% = 80
+
+
+
+- Abstração – “habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais”
+
+- Abstração é uma habilidade de um ótimo programador, pq nenhum software é desenvolvido em partes depois todas estas partes são juntas.
+- Execercicio final
+  - Crie um mapa mental para resolver um determinado problema, por exemplo, calcular a média aritmética de 4 notas, sabendo que as notas são as seguintes
+  - 	Nota 1:5
+  - 	Nota 2:7
+  - 	Nota 3:10
+  - 	Nota 4:3
+  - 	Qual é média aritmética do aluno
+- É possível fazer uma abstração a partir do seu mapa mental? 
+- MAPA MENTAL
+  - Definir o que é necessário para calcular a média aritmética
+  - Somar Nota 1 com 2
+  - Somar resultado com a nota 3
+  - Somar com a nota 4
+  - Se obtém  25
+  - Dividir pelas quantidades de Notas, que são 4
+  - 25 / 4 = 6,25
+  - Média aritmética é a Nota 6,25.
+- MAPA MENTAL – ABSTRAÇÃO
+  - Conhecimento da forma de cálculo
+  - Sabendo o total de Notas 25
+  - Quantidade de Notas 4
+  - Divide total de notas pela quantidade de notas, 6,25
+
+O QUE SÃO ALGORITMOS E PSEUDOCÓDIGO    
+
+ALGORITMO
+
+“ é uma sequência de passos que resolve uma problema”
+
+- 
+  Exemplo: 
+  - Início -dia
+  - Acordei
+  - Levantei da cama
+  - Troquei de roupa 
+  - Escovei os dentes
+  - Fui a padaria
+  - Tome café
+  - Escovei os dentes Fui ao trabalho
+  - .....
+- Fim-dia
+- Então temos uma sequência lógica do que fiz no dia.
+- Qualquer programa é uma sequencia de passo e a ordem é importante e altera o programa.
+- Em alguns casos no futuro teremos que prever a alteração desta ordem.
+
+Na prática.
+
+- https://studio.code.org/s/mc/stage/1/puzzle/1
+
+1.	Fazer o exemplo 1-2
+2.	Fazer o exemplo 5 para ações repetidas 
+3.	Fazer o exemplo 11 ações de função condicional “SE”
+
+PSEUDOCÓDIGO
+“É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qq pessoa)”.
+
+- Exemplo:
+
+- https://www.proprofs.com/games/wolf-sheep-and-cabbage/
+
+- O lobo a ovelha e o repolho
+
+- Passar todos para o outro lado do lago
+
+- O lobo come a ovelha e ela como o repolho
+
+- Fazer um logaritmo com peseudocódigo.
+
+  - INICIO DO JOGO
+
+  - Ovelha entra no barco
+
+  - Atravesso
+
+  - Ovelha sai do barco
+
+  - Atravesso
+
+  - Repolho entra no barco
+
+  - Atravesso 
+
+  - Repolho sai do barco
+
+  - Ovelha entra no barco
+
+  - Atravesso
+
+  - Ovelha sai do barco
+
+  - Lobo entra no barco
+
+  - Atravesso
+
+  - Lobo sai do barco
+
+  - Atravesso
+
+  - Ovelha entrada no barco
+
+  - Atravesso
+
+  - Ovelha sai do barco
+
+  - FIM DO JOGO
+
+
+
+
+
+
+
